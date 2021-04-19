@@ -1,0 +1,13 @@
+C:\Users\Merve\source\repos\kim milyoner olmak istemez v2\kim milyoner olmak istemez v2\bin\Debug\kim milyoner olmak istemez v2.exe.config
+C:\Users\Merve\source\repos\kim milyoner olmak istemez v2\kim milyoner olmak istemez v2\bin\Debug\kim milyoner olmak istemez v2.exe
+C:\Users\Merve\source\repos\kim milyoner olmak istemez v2\kim milyoner olmak istemez v2\bin\Debug\kim milyoner olmak istemez v2.pdb
+C:\Users\Merve\source\repos\kim milyoner olmak istemez v2\kim milyoner olmak istemez v2\obj\Debug\kim milyoner olmak istemez v2.csprojAssemblyReference.cache
+C:\Users\Merve\source\repos\kim milyoner olmak istemez v2\kim milyoner olmak istemez v2\obj\Debug\kim_milyoner_olmak_istemez_v2.Form1.resources
+C:\Users\Merve\source\repos\kim milyoner olmak istemez v2\kim milyoner olmak istemez v2\obj\Debug\kim_milyoner_olmak_istemez_v2.Properties.Form1.resources
+C:\Users\Merve\source\repos\kim milyoner olmak istemez v2\kim milyoner olmak istemez v2\obj\Debug\kim_milyoner_olmak_istemez_v2.Properties.Resources.resources
+C:\Users\Merve\source\repos\kim milyoner olmak istemez v2\kim milyoner olmak istemez v2\obj\Debug\kim milyoner olmak istemez v2.csproj.GenerateResource.cache
+C:\Users\Merve\source\repos\kim milyoner olmak istemez v2\kim milyoner olmak istemez v2\obj\Debug\kim milyoner olmak istemez v2.exe
+C:\Users\Merve\source\repos\kim milyoner olmak istemez v2\kim milyoner olmak istemez v2\obj\Debug\kim milyoner olmak istemez v2.pdb
+C:\Users\Merve\source\repos\kim milyoner olmak istemez v2\kim milyoner olmak istemez v2\obj\Debug\kim_milyoner_olmak_istemez_v2.Form2.resources
+C:\Users\Merve\source\repos\kim milyoner olmak istemez v2\kim milyoner olmak istemez v2\obj\Debug\kim_milyoner_olmak_istemez_v2.Form3.resources
+C:\Users\Merve\source\repos\kim milyoner olmak istemez v2\kim milyoner olmak istemez v2\obj\Debug\kim_milyoner_olmak_istemez_v2.Form4.resources
